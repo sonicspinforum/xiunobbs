@@ -1,4 +1,4 @@
-### Tips:因为Xiuno BBS 4.0开源项目暂时关闭，所以此项目仅作为备份使用，以下信息不确保有效性
+### 由于 Xiuno 官方已停止维护 Xiuno BBX，此仓库仅用于备份 Xiuno BBS 4.0 源代码。
 
 ### 【Xiuno BBS 4.0 是什么？】
 Xiuno BBS 4.0 是一款轻论坛产品，前端基于 BootStrap 4.0、JQuery 3，后端基于 PHP/7 MySQL XCache/Yac/Redis/Memcached...
